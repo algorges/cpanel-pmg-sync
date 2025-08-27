@@ -29,3 +29,6 @@ DATA=`/bin/date '+%Y-%m-%d %T'`
 
 LOG_FILE="/var/log/pmg_sync.log"
 
+# Contribution
+
+https://www.paypal.com/donate/?business=V6K8R2N7VQ4BW&no_recurring=0&currency_code=BRL
