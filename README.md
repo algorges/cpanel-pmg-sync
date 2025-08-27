@@ -16,10 +16,16 @@ At the end I added a routine to email our support what was added or removed.
 The settings are simple:
 
 PMG_IP="xxx.xxx.xxx.xxx" #IP or host
+
 PMG_USER="user@pmg" # user@pmg
+
 PMG_PASSWORD="password-user-pmg"
+
 CPANEL_HOST="host-cpanel" #only host cpanel server
+
 RECIPIENT_EMAIL="support@support.com"
+
 DATA=`/bin/date '+%Y-%m-%d %T'`
+
 LOG_FILE="/var/log/pmg_sync.log"
 
